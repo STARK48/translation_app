@@ -28,13 +28,6 @@ The app uses Next.js API routes for backend functionality:
    - Translations endpoint - manages translation entries
    - Import/Export endpoints - handles file processing
 
-2. **Database Integration**: Supabase provides PostgreSQL database access
-   - API routes connect to Supabase for data persistence
-   - Client-side connection is established for real-time subscriptions
-
-3. **Authentication**: Leverages Supabase Auth for user management
-   - Secure endpoints with proper authorization checks
-   - Row-level security policies in the database
 
 ## Data Model
 
